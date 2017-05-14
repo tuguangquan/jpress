@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jpress-web-template-jblog:war exploded">
+    <output-path>$PROJECT_DIR$/jpress-web-template-jblog/target/template-jblog</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jpress-web-template-jblog/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jpress-web-template-jblog" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
